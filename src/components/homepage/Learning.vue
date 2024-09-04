@@ -6,20 +6,19 @@
         </section>
 
         <section class="learning-details">
-            <h2> Things you can learn about 💡 </h2>
+            <h2> Explore Our Stationery Collection ✏️ </h2>
             <p>
-                From the very beginnings of our group we wanted to be the place where early career developers gain additional skills that make them stand out and help secure their first roles in tech. 
-                Because of that we've included the follwing topics into every project we've built so far:
+            At Apsara, we offer a wide range of stationery designed to enhance your creativity and productivity. 
+            Discover our products that have been trusted by students and professionals alike:
             </p>
 
             <ul>
-
-                <li> Practicing Effective Communication</li>
-                <li> Planning & Collaborating by using Jira  </li>
-                <li> Exploring Agile Ways Of Working</li>
-                <li> Nurturing Psychological Safety </li>
-                <li> Encouraging Public Speaking </li>
-                <li> Empowering Future Leaders </li>
+                <li> High-Quality Pencils for Smooth Writing</li>
+                <li> Precision Erasers for Clean Corrections</li>
+                <li> Durable Sharpeners for Sharp Points</li>
+                <li> Artistic Supplies for Creative Expression</li>
+                <li> Notebooks & Sketchpads for Ideas and Notes</li>
+                <li> Crafting Tools for Innovative Projects</li>
             </ul>
 
         </section>
