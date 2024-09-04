@@ -1,11 +1,11 @@
 <template>
     <section class="hero_header">
         <aside class="hero_header-information">
-            <h1>Junior Developer Group</h1>
+            <h1>Apsara</h1>
             <p>
-            We're a friendly, international community, 
-            providing an additional way of gaining  experience, 
-            practicing your skills and creating meaningful connections while working together
+            At Apsara, we take pride in crafting premium stationery that inspires creativity and precision. 
+            Our range of pencils, erasers, and art supplies are designed to meet the diverse needs of students, professionals, and artists alike. 
+            With a legacy of quality and innovation, Apsara is committed to providing tools that help bring ideas to life.
             </p>
 
             <a href="/about">Find out more</a>
