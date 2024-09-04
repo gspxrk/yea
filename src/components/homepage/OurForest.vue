@@ -3,18 +3,18 @@
       <div class="forest-wrapper green">
         <div class="forest-details">
           <img src="../../assets/images/forest.png" alt="">
-          <h2>We planted some trees</h2>
+          <h2>We're environmentally friendly</h2>
           <p>
             Having a positive impact and making the world a better place is very important to us 🖤
           </p>
         </div>
         <div class="counter">
-          <p> Trees planted so far:</p>
+          <p>Trees planted so far:</p>
           <span id="number">
-            86
+            50K+
           </span>
           <img src="../../assets/images/forest.png" alt="">
-            <p class="disclaimer"> *Planted trough third party applications</p>
+            <p class="disclaimer"> *Planted by our parent company Hindustan Pencils Pvt. Ltd.</p>
         </div>
       </div>
 
