@@ -98,8 +98,8 @@
         display: flex;
         justify-content: center;
         img {
-            width: 480px;
-            height: 280px;
+            width: 260px;
+            height: auto;
 
             @media (max-width: 350px) {
                 width: 150px;
