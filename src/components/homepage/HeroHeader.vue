@@ -11,7 +11,7 @@
             <a href="/about">Find out more</a>
         </aside>
         <aside class="hero_header-logo">
-            <img src="../../assets/logo-with-background.png" alt="Junior Developer Group Logo | A butterfly with a blue and a purple wing"> 
+            <img src="https://www.hindustanpencils.com/wp-content/uploads/2024/01/apsara-logo-200x60-1.png" alt="Junior Developer Group Logo | A butterfly with a blue and a purple wing"> 
         </aside>
     </section>
 </template>
