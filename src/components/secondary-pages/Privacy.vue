@@ -161,7 +161,7 @@ export default {
 
         img {
             width: 280px;
-            height: 280px;
+            height: auto;
 
             @media (max-width: 350px) {
                 width: 150px;
