@@ -4,24 +4,14 @@
             <aside class="left-column">
                 <p> Join us: </p>
 
-                <a href="https://discord.com/invite/JdGZbZYDvd" target="_blank">
-                    <img src="../assets/images/footer/discord.png" alt=""/> 
-                    discord
-                </a>
-
-                <a href="https://github.com/Junior-Developer-Group" target="_blank">
-                    <img src="../assets/images/footer/github-logo.png" alt=""/> 
-                    github
-                </a>
-
-                <a href="https://www.instagram.com/juniordevelopergroup/" target="_blank">
+                <a href="https://www.instagram.com/official.apsara/" target="_blank">
                     <img src="../assets/images/footer/instagram-logo.png" alt=""/> 
                     instagram
                 </a>
 
-                <a href="https://gather.town/app/EXCj9n8cz6KDtw3p/Junior%20Dev%20HQ" target="_blank">
-                    <img src="../assets/images/footer/gather.png" alt="" /> 
-                    gather
+                <a href="https://www.youtube.com/channel/UCMCY4g7AgvGKwKyYQSmTq5A" target="_blank">
+                    <img src="https://e7.pngegg.com/pngimages/208/269/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png" alt="" /> 
+                    YouTube
                 </a>
                 
             </aside>
