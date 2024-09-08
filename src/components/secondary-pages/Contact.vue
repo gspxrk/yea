@@ -109,8 +109,8 @@ export default {
 }
 
 .header__image {
-  height: 210px;
-  width: 210px;
+  height: auto;
+  width: 250px;
 }
 
 .header__description {
