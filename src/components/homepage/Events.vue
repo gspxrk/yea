@@ -1,21 +1,19 @@
 <template>
-    <div class="events">
-
-        <section class="socialMedia__discord">
-            <iframe src="https://discord.com/widget?id=787411703901978684&amp;theme=dark" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" title="discord"></iframe>
+    <div class="creativity-corner">
+        <section class="creativity-corner__image">
+            <img src="../../assets/images/inspiration.png" alt="Apsara Creativity"/>
         </section>
 
-        <section class="events-details">
-            <h2> Events & Meetups 📣 </h2>
+        <section class="creativity-corner-details">
+            <h2> Get Inspired with Apsara ✨ </h2>
             <p>
-                We're a chatty bunch! Our group likes to organise meetings where we run workshops, plan future projects, answer questions or provide some help with tasks we're stuck on.
-                When each of the meetings (or workshops) are planned we always check in with our members to make sure everyone is available - because, you know, timezones!
+                At Apsara, we believe that creativity can be found everywhere. Whether you're sketching your first drawing or working on your next big project, our tools are designed to inspire your creative journey.
             </p>
             <p> 
-                Our meetings are organised on Discord, but sometimes, we like to pop over to our Gather castle and have some fun as well. 
+                Check out the tips and tricks we’ve put together to help you unlock your imagination. Explore how others are using Apsara products, or challenge yourself with our latest art prompts. Share your creations and join the creative community!
             </p>
 
-            <a href="https://discord.com/invite/JdGZbZYDvd"> Join our Discord</a>
+            <a href="https://apsara.com/inspiration"> Explore Inspiration</a>
         </section>
     </div>
 </template>
@@ -23,13 +21,12 @@
 
 <script>
 export default {
-    // eslint-disable-next-line
     name: 'Events'
 }
 </script>
 
 <style scoped lang="scss">
-    .events {
+    .creativity-corner {
         width: 100%;
         max-width: 950px;
         min-height: 500px;
@@ -44,24 +41,30 @@ export default {
         }
     }
 
-    .socialMedia__discord {
-        width: 20%;
+    .creativity-corner__image {
+        width: 40%;
         display: flex;
         justify-content: center;
         align-items: center;
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
         @media (max-width: 900px) {
             width: 90%;
         }
 
         @media (max-width: 400px) {
-           iframe {
-            width: 90%;
+           img {
+            width: 100%;
            }
         }
     }
 
-    .events-details {
-        width: 55%;
+    .creativity-corner-details {
+        width: 50%;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -79,6 +82,7 @@ export default {
         text-align: center;
         font-size: 2rem;
     }
+
     p {
         text-align: center;
         font-size: 1.1rem;
