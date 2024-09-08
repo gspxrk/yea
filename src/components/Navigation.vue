@@ -2,14 +2,12 @@
     <nav class="navigation">
         <div class="navigation-logo">
             <a href="/">
-                <img src="../assets/logo-with-background.png" alt="JDG Logo | A butterfly with a blue and a purple wing">
+                <img src="https://www.hindustanpencils.com/wp-content/uploads/2024/01/apsara-logo-200x60-1.png" alt="JDG Logo | A butterfly with a blue and a purple wing">
             </a>
         </div>
         <div class="navigation-links">
             <ul>
                 <li> <a href="/about"> About </a>                </li>
-                <li> <a href="/developers"> Team </a>      </li>
-                <li> <a href="/become-a-member"> Get involved </a>    </li>
                 <li> <a href="/contact"> Contact </a>               </li>
                 <!-- <li> <a href="/blog"> Blog </a>                  </li> -->
             </ul>
@@ -31,8 +29,6 @@
 
             <ul>
                 <li> <a href="/about"> About </a>                </li>
-                <li> <a href="/developers"> Team </a>      </li>
-                <li> <a href="/become-a-member"> Get involved </a>    </li>
                 <li> <a href="/contact"> Contact </a>               </li>
                 <!-- <li> <a href="/blog"> Blog </a>                  </li> -->
             </ul>
