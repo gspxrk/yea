@@ -19,22 +19,18 @@
             <aside class="right-column">
                <p> Important Links: </p>
 
-                <a href="https://junior-developer-group.github.io/group-resources/" target="_blank">
-                    group resources
+                <a href="https://www.hindustanpencils.com/category/products/apsara/apsara-pencils/" target="_blank">
+                    store
                 </a>
                 
                 <a href="/privacy">
                     privacy policy
                 </a>
-
-                <a href="/remove-data">
-                    Remove my data
-                </a>
             </aside>
         </section>
 
         <section class="copyright">
-            <p> © Junior Developer Group, {{ currentYear }}</p>
+            <p> © Sleepy Development, {{ currentYear }}</p>
         </section>
     </footer>
 </template>
