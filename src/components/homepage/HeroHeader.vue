@@ -98,7 +98,7 @@
         display: flex;
         justify-content: center;
         img {
-            width: auto;
+            width: 480px;
             height: 280px;
 
             @media (max-width: 350px) {
