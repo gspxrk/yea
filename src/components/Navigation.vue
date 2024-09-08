@@ -70,8 +70,8 @@
     margin-left: 20px;
 
     img {
-        width: 80px;
-        height: 80px;
+        width: 140px; /* Adjust width as needed */
+        height: auto; /* Maintain aspect ratio */
     }
 }
 
