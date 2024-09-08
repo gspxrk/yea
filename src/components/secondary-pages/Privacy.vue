@@ -1,17 +1,17 @@
 <template>
     <section class="privacy-policy__header">
-      <img src="../../assets/logo-with-background.png" alt="Junior Developer Group Logo | A butterfly with a blue and a purple wing">
+      <img src="https://www.hindustanpencils.com/wp-content/uploads/2024/01/apsara-logo-200x60-1.png" alt="Apsara Logo | A butterfly with a blue and a purple wing">
     </section>
 
     <section class="privacy-policy__content">
       <div class="column">
-        <h2>Privacy Policy for Junior Developer Group</h2>
+        <h2>Privacy Policy for Apsara</h2>
         <p>
-          At Junior Developer Group, accessible from
-          <a href="https://junior-developer-group.com/" target="_blank">junior-developer-group.com</a>
+          At Apsara, accessible from
+          <a href="https://apsara-one.vercel.app/" target="_blank">https://apsara-one.vercel.app/</a>
           one of our main priorities is the privacy of our visitors. <br>
           This Privacy Policy document contains types of information that is
-          collected, used and recorded by Junior Developer Group and is
+          collected, used and recorded by Apsara and is
           written with the help of a generator.
         </p>
         <p>
@@ -26,24 +26,24 @@
         <p>We are a Data Controller of your information.</p>
 
         <p>
-          Junior Developer Group legal basis for collecting and using the
+          Apsara legal basis for collecting and using the
           personal information described in this Privacy Policy depends on the
           Personal Information we collect and the specific context in which we
           collect the information:
         </p>
 
         <ul>
-          <li>Junior Developer Group needs to perform a contract with you</li>
-          <li>You have given Junior Developer Group permission to do so</li>
+          <li>Apsara needs to perform a contract with you</li>
+          <li>You have given Apsara permission to do so</li>
           <li>
-            Processing your personal information is in Junior Developer Group
+            Processing your personal information is in Apsara
             legitimate interests
           </li>
-          <li>Junior Developer Group needs to comply with the law</li>
+          <li>Apsara needs to comply with the law</li>
         </ul>
 
         <p>
-          Junior Developer Group will retain your personal information only
+          Apsara will retain your personal information only
           for as long as is necessary for the purposes set out in this Privacy
           Policy. We might retain and use your information to the extent
           necessary to enforce our policies and provide better training
@@ -79,7 +79,7 @@
       <div class="column">
         <h2>Log Files</h2>
         <p>
-          Junior Developer Group follows a standard procedure of using log
+          Apsara follows a standard procedure of using log
           files. These files log visitors when they visit websites. All
           hosting companies do this and a part of hosting services' analytics.
           The information collected by log files include internet protocol
@@ -95,7 +95,7 @@
       <div class="column">
         <h2>Cookies and Web Beacons</h2>
         <p>
-          Like any other website, Junior Developer Group uses 'cookies'. These
+          Like any other website, Apsara uses 'cookies'. These
           cookies are used to store information including visitors'
           preferences, and the pages on the website that the visitor accessed
           or visited. The information is used to optimize the users'
@@ -110,7 +110,7 @@
         <h2>Third Party Privacy Policies</h2>
 
         <p>
-          Junior Developer Group's Privacy Policy does not apply to other
+          Apsara's Privacy Policy does not apply to other
           advertisers or websites. Thus, we are advising you to consult the
           respective Privacy Policies of these third-party ad servers for more
           detailed information. It may include their practices and
@@ -129,7 +129,7 @@
         <h2>Third Parties | Google Analytics</h2>
 
         <p>
-          Junior Developer Group does not use Google Analytics.
+          Apsara does not use Google Analytics.
         </p>
       </div>
 
