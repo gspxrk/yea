@@ -4,14 +4,14 @@
         <section class="contact__header-wrapper">
             <div class="contact__header">
                 <div class="image__holder">
-                    <img src="../../assets/logo-with-background.png"  class="header__image" alt="Junior Developer Group Logo | A butterfly with a blue and a purple wing">
+                    <img src="https://www.hindustanpencils.com/wp-content/uploads/2024/01/apsara-logo-200x60-1.png"  class="header__image" alt="Junior Developer Group Logo | A butterfly with a blue and a purple wing">
                 </div>
 
                 <div class="header__description">
                 <h1 class="description__title">Have a question for us?</h1>
 
                 <p class="description__paragraph">
-                    Always humans, never bots. Our admin team is always happy to
+                    Our support team is always happy to
                     answer your queries. Please fill out the form and we'll get
                     in touch shortly.
                 </p>
