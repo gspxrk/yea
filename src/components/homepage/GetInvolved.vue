@@ -41,23 +41,23 @@
      }
  
      .contact-button {
-         background: #ffc22b; /* Matching background color */
-         border-radius: 10px; /* Rounded corners */
-         color: var(--dark)!important; /* Text color */
-         font-style: normal; /* Normal font style */
-         font-weight: bold; /* Bold text */
-         font-size: 18px; /* Font size */
-         line-height: 29px; /* Line height */
-         text-align: center; /* Center text alignment */
-         letter-spacing: 2px; /* Letter spacing */
-         text-transform: uppercase; /* Uppercase text */
-         display: flex; /* Flexbox layout */
-         justify-content: center; /* Center content horizontally */
-         align-items: center; /* Center content vertically */
-         margin-top: 45px; /* Margin at the top */
-         padding: 10px 30px; /* Padding inside the button */
-         max-width: 80%; /* Maximum width of the button */
-         transition: 300ms all ease-in-out; /* Smooth transition for hover effect */
+       background: #ffc22b;
+        border-radius: 10px;
+        color: var(--dark)!important;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 29px;
+        text-align: center;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 45px;
+        padding: 10px 30px;
+        max-width: 80%;
+        transition: 300ms all ease-in-out;
 
          &:hover {
              padding: 10px 50px; /* Increase padding on hover */
